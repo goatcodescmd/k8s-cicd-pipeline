@@ -1,4 +1,4 @@
- name: Kubernetes CI/CD
+name: Kubernetes CI/CD
 
 on:
   push:
